@@ -26,7 +26,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost/abyss/public',
+    'url' => 'https://github.com/urgisi/Business_CMS/public',
 
     /*
     |--------------------------------------------------------------------------
